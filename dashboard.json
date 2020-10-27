@@ -1,0 +1,22 @@
+{
+    "port": 8000,
+    "website": "https://divisong.net",
+    "authorwebsite": "https://divisong.net",
+    "github": "https://github.com/divisong",
+    "mobile": "true",
+    "name": "DivisongNetwork",
+    "tag": "#6518",
+    "clientId": "762784761696485426",
+    "twitter": "@divisongnetwork",
+    "mobile": "true",
+    "launch": "2020",
+    "pagename": "DivisongNetwork",
+    "description": "A advanced discord bot with many futures",
+    "image": "thumb.jpg",
+    "server": "https://discord.gg/KVnZrrr",
+    "email": "network@divisong.net",
+    "verification": "NzYyNzg0NzYxNjk2NDg1NDI2.X3uMqw.u0BsEsyxHuIEtFxLCbhOtAwE_ic",
+    "scopes": ["guilds", "bot"],
+    "redirectUri": "https://discord.com/api/oauth2/authorize?client_id=762784761696485426&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.gg%2FKVnZrrr&response_type=code&scope=relationships.read%20activities.write%20activities.read%20applications.entitlements%20applications.store.update%20applications.builds.read%20applications.builds.upload%20messages.read%20webhook.incoming%20bot%20rpc.notifications.read%20rpc%20gdm.join%20guilds.join%20guilds%20connections%20email%20identify",
+    "[COMMENT] ^^^ This is your Redirect Uri ^^^": "https://discord.com/api/oauth2/authorize?client_id=762784761696485426&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.gg%2FKVnZrrr&response_type=code&scope=relationships.read%20activities.write%20activities.read%20applications.entitlements%20applications.store.update%20applications.builds.read%20applications.builds.upload%20messages.read%20webhook.incoming%20bot%20rpc.notifications.read%20rpc%20gdm.join%20guilds.join%20guilds%20connections%20email%20identify"
+}
